@@ -1,7 +1,6 @@
 # Project Name          : Banking Management System
 # Made by               : PRAKUL PATEL
 # session               : 2020-2021
-# roll_no.(Class)       : 17
 
 #Importing Modules
 import mysql.connector
