@@ -1,5 +1,5 @@
 # Project Name          : Banking Management System
-# Made by               : PRAKUL PATEL
+# Made by               : PRAKUL PATEL & PRANAVI T
 # session               : 2020-2021
 
 #Importing Modules
